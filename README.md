@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evgKireev
+- 👋 Hi, I’m Kireev Evgeniy
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/eugene-kireev-13a966239/), [Insta](https://instagram.com/ev_kireev?igshid=NmNmNjAwNzg=) 
 	 
  <details><summary>🚀 React JS Projects</summary>
