@@ -5,7 +5,8 @@
   
    1. [Pizza-shop React](https://evgkireev.github.io/React-pizza/).
    2. [To-do React](https://evgkireev.github.io/todo-react-2/).
-   3. covid-19 in developing.
+   3. [To-do React](https://evgkireev.github.io/Counter/).
+   4. covid-19 in developing.
   
 </details>
   <details><summary>⚡ JS Projects</summary>
