@@ -4,7 +4,7 @@
  <details><summary>🚀 React JS Projects</summary>
 	
    1. [Marcoo-Shop (Next.js)](https://shop-marcooo.vercel.app/) in developing...
-   2. [Start-Next.js](https://next-js-sable-six.vercel.app/).
+   2. [Start-Next (Next.js)](https://next-js-sable-six.vercel.app/).
    3. [Blogofolio React](https://evgkireev.github.io/Blogofolio/) in developing...
    4. [Pizza-shop React](https://evgkireev.github.io/React-pizza/).
    5. [To-do React](https://evgkireev.github.io/todo-react-2/).
