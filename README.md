@@ -24,12 +24,13 @@
   
 </details>
   <details><summary>🌱 CSS & HTML Projects</summary>
-  
-   1. [Shop HIMO](https://evgkireev.github.io/HIMO).
-   2. [PROTOTYPES AXIT](https://evgkireev.github.io/AXIT/).
-   3. [PROTOTYPES ActiveBox](https://evgkireev.github.io/ActiveBox/).
-   4. Online store MARCHO.
-   5. Online store GLEE.
+    
+   1. [E-Commerce](https://evgkireev.github.io/testPro/).	
+   2. [Shop HIMO](https://evgkireev.github.io/HIMO).
+   3. [PROTOTYPES AXIT](https://evgkireev.github.io/AXIT/).
+   4. [PROTOTYPES ActiveBox](https://evgkireev.github.io/ActiveBox/).
+   5. Online store MARCHO.
+   6. Online store GLEE.
   
 </details>
 
