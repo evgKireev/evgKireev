@@ -3,19 +3,20 @@
 	 
  <details><summary>🚀 React JS Projects</summary>
 	
-   1. [Marcoo-Shop (Next.js)](https://shop-marcooo.vercel.app/) in developing...
-   2. [Start-Next (Next.js)](https://next-js-sable-six.vercel.app/).
+   1. [Pixema (React.js)](https://evgkireev.github.io/pixema/) in developing...
+   2. [Pizza-shop React](https://evgkireev.github.io/React-pizza/).	
    3. [Blogofolio React](https://evgkireev.github.io/Blogofolio/) in developing...
-   4. [Pizza-shop React](https://evgkireev.github.io/React-pizza/).
-   5. [To-do React](https://evgkireev.github.io/todo-react-2/).
-   6. [To-do (Firebase Backend)](https://evgkireev.github.io/Todo-React-Firebase-Backend/).
-   7. [Photo Gallery React](https://evgkireev.github.io/photos-gallery/).
-   8. [Currency Converter React](https://evgkireev.github.io/Currency-converter/).
-   9. [Gues List React](https://evgkireev.github.io/Guest-list/).
-   10. [Quiz React](https://evgkireev.github.io/quiz/).
-   11. [Counter React](https://evgkireev.github.io/Counter/).
-   12. [Modal React](https://evgkireev.github.io/modal/).
-   13. covid-19 in developing.
+   4. [Marcoo-Shop (Next.js)](https://shop-marcooo.vercel.app/) in developing...	
+   5. [Start-Next (Next.js)](https://next-js-sable-six.vercel.app/).
+   6. [Photo Gallery React](https://evgkireev.github.io/photos-gallery/).
+   7. [To-do React](https://evgkireev.github.io/todo-react-2/).
+   8. [To-do (Firebase Backend)](https://evgkireev.github.io/Todo-React-Firebase-Backend/).
+   9. [Currency Converter React](https://evgkireev.github.io/Currency-converter/).
+   10. [Gues List React](https://evgkireev.github.io/Guest-list/).
+   11. [Quiz React](https://evgkireev.github.io/quiz/).
+   12. [Counter React](https://evgkireev.github.io/Counter/).
+   13. [Modal React](https://evgkireev.github.io/modal/).
+   14. covid-19 in developing.
   
 </details>
   <details><summary>⚡ JS Projects</summary>
