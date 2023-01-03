@@ -3,7 +3,7 @@
 	 
  <details><summary>🚀 React JS Projects</summary>
 	
-   1. [Pixema (React.js)](https://evgkireev.github.io/pixema/) in developing...
+   1. [Pixema (React.js)](https://evgkireev.github.io/pixema/)
    2. [Pizza-shop React](https://evgkireev.github.io/React-pizza/).	
    3. [Blogofolio React](https://evgkireev.github.io/Blogofolio/).
    4. [Marcoo-Shop (Next.js)](https://shop-marcooo.vercel.app/) in developing...	
