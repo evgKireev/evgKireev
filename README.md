@@ -31,11 +31,12 @@
    1. [E-Commerce](https://evgkireev.github.io/testPro/).
    2. [E-Commerce(webinar-2)](https://evgkireev.github.io/E-commerce/).	
    3. [Shop HIMO](https://evgkireev.github.io/HIMO).
-   4. [PROTOTYPES AXIT](https://evgkireev.github.io/AXIT/).
-   5. [PROTOTYPES ActiveBox](https://evgkireev.github.io/ActiveBox/).
-   6. Online store MARCHO.
-   7. Online store GLEE.
-  
+   4. [test offerrum]( https://evgkireev.github.io/Test-offerrum/).
+   5. [PROTOTYPES AXIT](https://evgkireev.github.io/AXIT/).
+   6. [PROTOTYPES ActiveBox](https://evgkireev.github.io/ActiveBox/). 
+   7. Online store MARCHO.
+   8. Online store GLEE.
+   
 </details>
 
 
