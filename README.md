@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kireev Evgeniy
-- 📫 How to reach me : [Instagram](https://instagram.com/ev_kireev?igshid=NmNmNjAwNzg=) 
+- 📫 How to reach me : [Instagram](https://instagram.com/ev_kireev?igshid=NmNmNjAwNzg=), [Linkedin](https://www.linkedin.com/in/eugene-kireev-13a966239/) 
 	 
  <details><summary>🚀 React JS Projects</summary>
 	
