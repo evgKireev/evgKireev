@@ -7,9 +7,10 @@
    2. [Pizza-shop React](https://evgkireev.github.io/React-pizza/).	
    3. [Blogofolio React](https://evgkireev.github.io/Blogofolio/).
    4. [Lorem React](https://evgkireev.github.io/test-xOne/#/).
-   5. [Galerea React](https://evgkireev.github.io/Galerea/).
-   5. [Marcoo-Shop (Next.js)](https://shop-marcooo.vercel.app/) in developing...	
-   7. [Start-Next (Next.js)](https://next-js-sable-six.vercel.app/).
+   5. [EG-work](https://evgkireev.github.io/EG-work/).
+   6. [Marcoo-Shop (Next.js)](https://shop-marcooo.vercel.app/) in developing...
+   7. [Galerea React](https://evgkireev.github.io/Galerea/).	
+   8. [Start-Next (Next.js)](https://next-js-sable-six.vercel.app/).
    8. [Photo Gallery React](https://evgkireev.github.io/photos-gallery/).
    9. [To-do React](https://evgkireev.github.io/todo-react-2/).
    10. [To-do (Firebase Backend)](https://evgkireev.github.io/Todo-React-Firebase-Backend/).
