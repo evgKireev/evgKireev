@@ -31,7 +31,7 @@
 </details>
   <details><summary>🌱 CSS & HTML Projects</summary>
 
-   1. [Make-Up](http://www.u151070.test-handyhost.ru/).
+   1. [Make-Up(wordpres) ](http://www.u151070.test-handyhost.ru/).
    1. [E-Commerce](https://evgkireev.github.io/testPro/).
    2. [E-Commerce(webinar-2)](https://evgkireev.github.io/E-commerce/).	
    3. [Shop HIMO](https://evgkireev.github.io/HIMO).
