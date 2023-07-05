@@ -12,7 +12,6 @@
    7. [Marcoo-Shop (Next.js)](https://shop-marcooo.vercel.app/) in developing...
    8. [Galerea React](https://evgkireev.github.io/Galerea/).	
    9. [Start-Next (Next.js)](https://next-js-sable-six.vercel.app/).
-   10. [Photo Gallery React](https://evgkireev.github.io/photos-gallery/).
    11. [To-do React](https://evgkireev.github.io/todo-react-2/).
    12. [To-do (Firebase Backend)](https://evgkireev.github.io/Todo-React-Firebase-Backend/).
    13. [Currency Converter React](https://evgkireev.github.io/Currency-converter/).
